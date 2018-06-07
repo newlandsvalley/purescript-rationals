@@ -1,6 +1,8 @@
 Rational numbers for PureScript
 -------------------------------
 
+DO NOT USE THIS FORK!  It is hacked together just to allow other libraries that depend on it to compile. The tests do not compile (awaiting strongcheck).  The `Field`  Ratio instance has been commented out (overlapping instance).
+
 Using numbers to do arithmetic with fractions in PureScript may yield surprising results:
 
 ```
