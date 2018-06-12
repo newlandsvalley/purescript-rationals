@@ -18,6 +18,7 @@
   },
   "devDependencies": {
     "purescript-console": "^4.1.0",
-    "purescript-strongcheck": "https://github.com/purescript-contrib/purescript-strongcheck.git#compiler/0.12"
+    "purescript-strongcheck": "^4.0.0",
+    "purescript-strongcheck-laws": "^3.0.0"
   }
 }
